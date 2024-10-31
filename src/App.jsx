@@ -34,6 +34,7 @@ useEffect(()=>{
     <>
       <center>
         <div className="max-w-2xl px-4 mx-2 mt-20 bg-gray-600 rounded-lg py-7">
+          <h1 className="mb-2 text-2xl font-semibold text-lime-500">IA</h1>
           <h1 className="text-4xl font-bold capitalize pb-7 text-lime-500">
             password generator
           </h1>
